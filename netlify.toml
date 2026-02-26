@@ -1,0 +1,8 @@
+[build]
+  publish = "dist"        # <-- your React build output folder
+  command = "npm run build" # <-- the command Netlify should run to build your app
+
+[[redirects]]
+  from = "/*"             # match all routes
+  to = "/index.html"      # serve index.html (React handles routing)
+  status = 200            # return 200 instead of 404
