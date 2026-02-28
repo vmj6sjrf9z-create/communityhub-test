@@ -10,7 +10,7 @@ import HomeRender from "./pages/homePage/HomeRender.jsx";
 import TasksRender from "./pages/tasksPage/TasksRender.jsx";
 import TaskInfo from "./pages/tasksPage/TasksInfo.jsx";
 import TeamsRender from "./pages/teamsPage/TeamsRender.jsx";
-import SettingsRender from "./pages/settingsPage/SettingsRender.jsx";
+import SettingsRender from "./pages/SettingsPage/SettingsRender.jsx";
 import ProfileRender from "./pages/profilePage/ProfileRender.jsx";
 
 export default function App() {
