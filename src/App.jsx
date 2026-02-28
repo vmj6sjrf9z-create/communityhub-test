@@ -6,7 +6,7 @@ import AuthRoute from "./components/AuthRoute.jsx";
 import AuthCallback from "./pages/AuthCallback.jsx";
 import Login from "./pages/Login.jsx";
 import Signup from "./pages/Signup.jsx";
-import HomeRender from "./pages/homePage/homeRender.jsx";
+import HomeRender from "./pages/homePage/HomeRender.jsx";
 import TasksRender from "./pages/tasksPage/TasksRender.jsx";
 import TaskInfo from "./pages/tasksPage/TasksInfo.jsx";
 import TeamsRender from "./pages/teamsPage/teamsRender.jsx";
